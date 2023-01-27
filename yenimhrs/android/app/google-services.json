@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "908037652291",
+    "project_id": "mhrsproject",
+    "storage_bucket": "mhrsproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908037652291:android:0a5b521b8c2e9bd04cf9f6",
+        "android_client_info": {
+          "package_name": "com.example.yenimhrs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908037652291-asm5q9ffap79qodnut0csu1504qa1ams.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yenimhrs",
+            "certificate_hash": "4294d055cd4aec60154394b839d40220bdbee978"
+          }
+        },
+        {
+          "client_id": "908037652291-kcmcsb7vi76te67p744gia2npp2vsotf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp0J6jvPM3feZgV6UmflUiEJ-diAR8oIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908037652291-kcmcsb7vi76te67p744gia2npp2vsotf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
